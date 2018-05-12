@@ -1,0 +1,35 @@
+_repo: At-the-Seaside_23397
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Grey, Mrs. (Elizabeth Caroline)
+    aliases:
+    - Grey, Elizabeth Caroline
+    - Gray,  Mrs. (Elizabeth Caroline)
+    birthdate: 1798
+    deathdate: 1869
+    gutenberg_agent_id: '25821'
+    url: http://www.gutenberg.org/2009/agents/25821
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Warner-Sleigh, Mrs.
+    gutenberg_agent_id: '25822'
+    url: http://www.gutenberg.org/2009/agents/25822
+description: ''
+gutenberg_issued: '2007-11-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23397'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Vacations -- Juvenile poetry'
+- !lcc 'PZ'
+- !lcsh 'Seashore -- Juvenile poetry'
+title: At the Seaside
+url: http://www.gutenberg.org/ebooks/23397
